@@ -473,7 +473,7 @@ ul li a:hover{
     }
     .btn-subscribe{
         margin-top: 5px;
-        background: white;
+        background: white !important;
         color: #FF5300 !important ;
         border: 2px solid #FF5300 !important;
     }
