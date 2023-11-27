@@ -424,6 +424,7 @@ ul li a:hover{
         align-items: center;
         flex-direction: column;
         transition: all 300ms linear;
+        z-index: 10;
     }
     .menu ul{
         display: flex;
@@ -436,6 +437,7 @@ ul li a:hover{
         display: flex;
         justify-content: space-around;
         flex-direction: column; 
+        z-index: 20;
     }
     .icon-box span{
         width: 30px;
